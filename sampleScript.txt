@@ -1,0 +1,15 @@
+Hello, welcome to this demo of human-like typing automation!
+
+This script simulates typing in a Google Doc with random pauses and breaks. The goal is to mimic human behavior by typing out text at a natural speed, taking breaks, and creating pauses between words and sentences.
+
+Here’s how it works:
+1. The script opens a Google Doc.
+2. It types out each word one by one, with random pauses between each character.
+3. After a few minutes of typing, it takes a break, just like a real person would.
+4. Once the break is over, it continues typing where it left off.
+
+You can customize the time intervals, the text file input, and the Google Docs link as per your needs.
+
+Hope this demo helps you understand how this can be applied to other typing tasks!
+
+Thanks for trying it out!
